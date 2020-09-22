@@ -138,7 +138,7 @@ h6 {
   margin: 100px 0 0;
   letter-spacing: -0.05em;
   line-height: 1em;
-  color: #0d899a;
+  color: #0dab78;
   padding-bottom: 10px;
 }
 
@@ -186,7 +186,7 @@ h6 {
   font-size: calc(2vw + 2vh);
   letter-spacing: -0.2rem;
   margin: 50px 0 30px;
-  color: #0d899a;
+  color: #0dab78;
   line-height: 1em;
   padding-bottom: 20px;
 }
@@ -648,4 +648,7 @@ footer {
 }
 .img-fit {
   width: 100%;
+}
+a {
+  color: #0dab78;
 }
