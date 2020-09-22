@@ -2,7 +2,7 @@ export const PROJECTS = [
   {
     projectName: "Mwebaze.me",
     description: "Another Design & Code story.",
-    progress: "InProgress",
+    progress: "Finished",
     link: "https://mwebaze.me",
   },
   {
@@ -17,5 +17,11 @@ export const PROJECTS = [
     description: "Gold Mine management system",
     progress: "OnHold",
     link: "https://optimamines.netlify.app/",
+  },
+  {
+    projectName: "Test Monkey",
+    description: "A simple Nodejs testing API",
+    progress: "InProgress",
+    link: "Coming Soon",
   },
 ];
