@@ -23,7 +23,7 @@ function MyApp({ Component, pageProps }) {
           content={
             og
               ? og.description
-              : `Writing about the tips I usually share on Twitter and some more.`
+              : `Writing about random hopefully useful stuff`
           }
         />
         <meta name="twitter:card" content="summary_large_image" />

@@ -50,7 +50,7 @@ function Projects() {
                           <Col xs={7}>{description}</Col>
                           <Col xs={5}>
                             <small>
-                              Link: <a href={link}>{link}</a>
+                              Link: <a target="_blank" href={link}>{link}</a>
                             </small>
                           </Col>
                         </Row>
