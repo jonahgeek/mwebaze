@@ -11,19 +11,19 @@ import BlackLivesMatter from "./BlackLivesMatter";
 const menu = [
   {
     path: "/",
-    name: "🤓",
+    name: "🤓 Home",
   },
   {
     path: "/projects",
-    name: "Projects",
+    name: "🚧 Projects",
   },
   {
     path: "/library",
-    name: "Library",
+    name: "📙 Library",
   },
   {
     path: "/writings",
-    name: "Writings",
+    name: "✍️ Writings",
   },
 ];
 const SHORTCUTS = ["Digit0", "Digit1", "Digit2"];

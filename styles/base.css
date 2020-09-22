@@ -611,3 +611,44 @@ footer {
 .support-blm a {
   color: var(--primary-color);
 }
+
+.page-header {
+  width: 30%;
+  background-color: #f6f8f9;
+  padding: 1rem;
+  border-radius: 5rem;
+  margin-top: 20px;
+  font-weight: 800;
+  color: #828282;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Finished {
+  color: green;
+  font-size: 10px;
+}
+.InProgress {
+  color: orange;
+  font-size: 10px;
+}
+.InPlanning {
+  color: grey;
+  font-size: 10px;
+}
+.OnHold {
+  color: #0d899a;
+  font-size: 10px;
+}
+.card {
+  border-radius: 0px;
+}
+.card-header {
+  background-color: inherit;
+  font-size: 16px;
+  font-weight: 900;
+  color: #333;
+}
+.card-body {
+  color: #333;
+  font-size: 13px;
+}
