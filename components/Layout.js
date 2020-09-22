@@ -137,7 +137,8 @@ function Layout({ children, isHomepage, secondaryPage }) {
 
       <footer>
         <div>
-          Good<em>Vibes</em>. 🤘
+          Good<em>Vibes</em>. 🤘{" "}
+          <a href="https://twitter.com/jonahgeek">Jonahgeek</a>{" "}
         </div>
         <div>&copy; {new Date().getFullYear()}</div>
       </footer>

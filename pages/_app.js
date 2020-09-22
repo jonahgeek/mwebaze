@@ -21,9 +21,7 @@ function MyApp({ Component, pageProps }) {
         <meta
           property="og:description"
           content={
-            og
-              ? og.description
-              : `Writing about random hopefully useful stuff`
+            og ? og.description : `Writing about random hopefully useful stuff`
           }
         />
         <meta name="twitter:card" content="summary_large_image" />
