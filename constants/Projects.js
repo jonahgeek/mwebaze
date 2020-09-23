@@ -18,4 +18,10 @@ export const PROJECTS = [
     progress: "OnHold",
     link: "https://optimamines.netlify.app/",
   },
+  {
+    projectName: "Asilimat Online Market place",
+    description: "Online shopping for fresh farm produce",
+    progress: "InProgress",
+    link: "https://asilimat-web.vercel.app/",
+  },
 ];
