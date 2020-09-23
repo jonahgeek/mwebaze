@@ -23,7 +23,7 @@ function Writing({ content, data }) {
 
       <Layout secondaryPage noHead>
         <div style={{ marginTop: 50 }} className="article-body">
-          <Link href="/" as="/">
+          <Link href="/writings" as="/">
             <a className="back-button">back</a>
           </Link>
 
@@ -76,8 +76,8 @@ function Writing({ content, data }) {
             <div />
 
             <div className="hope-liked">
-              This should help.
-              <br />— Jonahgeek
+              I hope this worked for you 😬.
+              <br />
             </div>
           </div>
         </div>

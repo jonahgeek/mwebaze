@@ -12,7 +12,7 @@ function BlackLivesMatter() {
             target="_blank"
             rel="noopener noreferrer nofollow"
             style={{
-              color: "black",
+              color: "#0dab78",
             }}
           >
             #BlackLivesMatter

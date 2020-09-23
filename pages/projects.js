@@ -15,7 +15,15 @@ function Projects() {
             I'm a developer & designer who mostly concentrates on front-end
             technologies like{" "}
             <strong>
-              <a href="https://reactjs.org/">ReactJS</a>
+              <a
+                target="_blank"
+                href="https://reactjs.org/"
+                style={{
+                  color: "#0dab78",
+                }}
+              >
+                ReactJS
+              </a>
             </strong>
             .
           </p>
@@ -50,7 +58,10 @@ function Projects() {
                           <Col xs={7}>{description}</Col>
                           <Col xs={5}>
                             <small>
-                              Link: <a href={link}>{link}</a>
+                              Link:{" "}
+                              <a target="_blank" href={link}>
+                                {link}
+                              </a>
                             </small>
                           </Col>
                         </Row>
